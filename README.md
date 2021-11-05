@@ -1,2 +1,2 @@
-# netology_dz1
-netology_dz1
+# netology_part1
+Домашнее задание по теме «Основы Python»
